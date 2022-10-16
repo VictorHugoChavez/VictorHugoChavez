@@ -1,5 +1,6 @@
 ### Hi my name is Victor Hugo Chavez **Developer Junior**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHugoChavez&hide=stars,commits,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VictorHugoChavez/VictorHugoChavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
