@@ -5,28 +5,27 @@
 
 
 ## Contact information
-victorchavez997.vc@gmail.com
-https://www.linkedin.com/in/victor-chavez-cruz/
-https://www.instagram.com/vicchavez1573/
-vchavezc1300@egresado.ipn.mx
- 55-5177-7936
+- victorchavez997.vc@gmail.com
+- https://www.linkedin.com/in/victor-chavez-cruz/
+- https://www.instagram.com/vicchavez1573/
+- vchavezc1300@egresado.ipn.mx
+- 55-5177-7936
 
 ### Technical skills
 
-<aside>
-HTML
-CSS
-Javascript
-Lit ELement
-Boostrapt
-Sass
-Java
-Node JS
-Mathlab
-BitBucket
-Jira
-Github
-Multisim
+- HTML
+- CSS
+- Javascript
+- Lit ELement
+- Boostrapt
+- Sass
+- Java
+- Node JS
+- Mathlab
+- BitBucket
+- Jira
+- Github
+- Multisim
 
 ### S**kills**
 
