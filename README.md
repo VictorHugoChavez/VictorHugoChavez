@@ -1,86 +1,125 @@
-# Victor Hugo Chavez C.
+<div align="center">
 
-> I’m a full stack developer with one year of experience in technologies such as Lit Element for front-end and Java for back-end development.  The ability to learn, adapt, and make decisions in a team setting is crucial. I possess strong skills in interacting and integrating with people. I am someone who enjoys innovating, working collaboratively, promoting ethical values, and generating diverse ideas through my creativity.
-> 
-
-
-## Contact information
-- victorchavez997.vc@gmail.com
-- https://www.linkedin.com/in/victor-chavez-cruz/
-- https://www.instagram.com/vicchavez1573/
-- vchavezc1300@egresado.ipn.mx
-- 55-5177-7936
-
-### Technical skills
-
-- HTML
-- CSS
-- Javascript
-- Lit ELement
-- Boostrapt
-- Sass
-- Java
-- Node JS
-- Mathlab
-- BitBucket
-- Jira
-- Github
-- Multisim
-
-### S**kills**
-
-- Trabajo en equipo
-- Planificacion
-- Adaptibilidad
-- Compromiso
-
-- Puntualidad
-- Liderazgo
-- Dedicacion
-- Creatividad
-
-### Certifications
-
-- [Closures y scope en javascript Platzi](https://platzi.com/p/victor.chavez/curso/3213-javascript-closures-scope/diploma/detalle/)
-- [Fundamentos NODE.JS Platzi](https://platzi.com/p/victor.chavez/curso/1759-fundamentos-node/diploma/detalle/)
-- **[Taller de Inglés Básico para Descripciones Personales](https://platzi.com/p/victor.chavez/curso/2005-taller-descripciones-personales/diploma/detalle/)**
-- **[Curso Profesional de Scrum](https://platzi.com/p/victor.chavez/curso/1750-scrum/diploma/detalle/)**
-- **[Curso de Programación Orientada a Objetos: POO](https://platzi.com/p/victor.chavez/curso/1474-oop/diploma/detalle/)**
-- **[Curso de Pensamiento Lógico: Manejo de Datos, Estructuras y Funciones](https://platzi.com/p/victor.chavez/curso/3222-pensamiento-logico-estructuras/diploma/detalle/)**
-- **[Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo](https://platzi.com/p/victor.chavez/curso/3221-pensamiento-logico/diploma/detalle/)**
-- **[Curso de Java SE Orientado a Objetos](https://platzi.com/p/victor.chavez/curso/1629-java-oop/diploma/detalle/)**
-- **[Curso de Introducción a Java SE](https://platzi.com/p/victor.chavez/curso/1631-java-basico/diploma/detalle/)**
-- **[Curso de Inglés Básico A1 para Principiantes](https://platzi.com/p/victor.chavez/curso/3093-ingles-basico-principiantes/diploma/detalle/)**
-- **[Curso de Inglés Básico A1: Conversaciones Cortas y Habituale](https://platzi.com/p/victor.chavez/curso/1945-ingles-principiantes/diploma/detalle/)s**
-- **[Curso Básico de JavaScript](https://platzi.com/p/victor.chavez/curso/1814-basico-javascript/diploma/detalle/)**
-
-## Work experience
-
-### Accenture Mexico - Front-end | 2022 - 2023
-
-I developed a bank and interbank payroll dispersal system for BBVA, which provides services to corporate clients. For the backend, I used Java, and for the frontend, I utilized JavaScript, HTML, CSS, Sass, and Lit Element. Additionally, I automated the system using Jenkins and handled cloud operations on AWS.
+# Victor Hugo Chavez Cruz
 
 
-### Generetion Mexico /CHEEMS&MEMS E-COOMERCE / **2022**
+### Full Stack Developer
 
-I collaborated with a team to develop a website for an e-commerce platform focused on clothing with memes. As a team member, I used Figma to create the design, and with the assistance of Bootstrap, HTML, and CSS3, I worked on the front-end development. I also utilized tools related to the back-end. Throughout the process, we worked as a team using the Scrum methodology, where I would share my daily objectives and any coding challenges I encountered. You can find the project repository at this link
+[![Gmail](https://img.shields.io/badge/Gmail-victorchavez997.vc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorchavez997.vc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20Chavez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-chavez-cruz/)
+[![Instagram](https://img.shields.io/badge/Instagram-vicchavez1573-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vicchavez1573/)
+[![IPN](https://img.shields.io/badge/IPN-vchavezc1300%40egresado.ipn.mx-8B0000?style=for-the-badge&logo=academia&logoColor=white)](mailto:vchavezc1300@egresado.ipn.mx)
+[![Phone](https://img.shields.io/badge/Tel-55--5177--7936-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:5551777936)
+
+</div>
+
+---
+
+## About Me
+
+> Full Stack Developer con experiencia en **LitElement** para frontend y **Java** para backend.
+> Me apasiona innovar, colaborar y promover valores eticos. Me adapto rapidamente a nuevas tecnologias
+> y disfruto aportar soluciones creativas trabajando en equipo.
+
+---
+
+## Technical Skills
+
+```json
+{
+  "frontend": {
+    "languages":  ["HTML5", "CSS3", "JavaScript (ES6+)"],
+    "frameworks": ["Lit Element", "Bootstrap", "Sass"]
+  },
+  "backend": {
+    "languages": ["Java"],
+    "runtimes":  ["Node.js"]
+  },
+  "devops_and_tools": {
+    "ci_cd":           ["Jenkins"],
+    "cloud":           ["AWS"],
+    "version_control": ["Git", "GitHub", "BitBucket"],
+    "project_mgmt":    ["Jira"]
+  },
+  "engineering": {
+    "simulation": ["Multisim", "MATLAB"]
+  }
+}
+```
+
+---
+
+## Soft Skills
+
+| | | | |
+|:-:|:-:|:-:|:-:|
+| Trabajo en equipo | Planificacion | Adaptabilidad | Compromiso |
+| Puntualidad | Liderazgo | Dedicacion | Creatividad |
+
+---
+
+## Work Experience
+
+### Accenture Mexico - Front-end Developer `2022 - 2023`
+
+Desarrolle un sistema de dispersion de nomina bancaria e interbancaria para **BBVA**, orientado a clientes corporativos.
+
+- **Frontend:** JavaScript, HTML, CSS, Sass, Lit Element
+- **Backend:** Java
+- **DevOps:** Jenkins (CI/CD automation), AWS (cloud operations)
+
+---
+
+### Generation Mexico - CHEEMS&MEMS E-Commerce `2022`
+
+Colabore en equipo para construir un **sitio e-commerce** de ropa tematica de memes.
+
+- **Diseno:** Figma
+- **Frontend:** HTML, CSS3, Bootstrap
+- **Metodologia:** Scrum (dailies, sprints, retrospectivas)
+
+---
+
+### ETN TURISTAR LUJO - Supervisor de Monitoreo `2019 - 2021`
 
 
-### ETN TURISTAR LUJO / SUPERVISOR DE MONITOREO / **2019-2021**
+Desarrolle un **indicador de prevencion de accidentes** en Excel alineado a la norma **ISO 9001:2015**.
 
-In the field, I developed an Excel-based indicator to prevent accidents. I worked in accordance with the ISO 9001:2015 standard to achieve the desired outcomes. This tool allowed for a daily review of bus information and driver habits. As a supervisor, I addressed various customer issues, such as lost luggage, incidents with other passengers, incidents with drivers, and even serious situations like accidents. During this role, I improved my behavioral skills, including communication, teamwork, individual decision-making, and collaborative decision-making.
+- Monitoreo diario de flota y habitos de conductores
+- Resolucion de incidencias: equipaje, pasajeros, emergencias
+- Fortalecimiento de comunicacion, toma de decisiones y trabajo en equipo
 
+---
 
-### Education
+## Education
 
-Instituto Politécnico Nacional Escuela Superior de Ingeniería Mecánica Eléctrica / Ingeniería en Comunicaciones y Electrónica (Titulado) /        **2016-2021**              
-Instituto Politécnico Nacional Centro de Estudios Científicos y Tecnológicos num.11 Wilfrido Massieu/ Técnico en Telecomunicaciones / **2013 - 2016**
+| Institucion | Grado | Periodo |
+|---|---|---|
+| **IPN - ESIME** | Ingenieria en Comunicaciones y Electronica (Titulado) | 2016 - 2021 |
+| **IPN - CECyT 11 Wilfrido Massieu** | Tecnico en Telecomunicaciones | 2013 - 2016 |
 
+---
 
-### Volunter
+## Certifications
 
-### Accenture Mexico
+| Curso | Plataforma |
+|---|---|
+| [Closures y Scope en JavaScript](https://platzi.com/p/victor.chavez/curso/3213-javascript-closures-scope/diploma/detalle/) | Platzi |
+| [Fundamentos de Node.js](https://platzi.com/p/victor.chavez/curso/1759-fundamentos-node/diploma/detalle/) | Platzi |
+| [Curso Basico de JavaScript](https://platzi.com/p/victor.chavez/curso/1814-basico-javascript/diploma/detalle/) | Platzi |
+| [Programacion Orientada a Objetos: POO](https://platzi.com/p/victor.chavez/curso/1474-oop/diploma/detalle/) | Platzi |
+| [Java SE Orientado a Objetos](https://platzi.com/p/victor.chavez/curso/1629-java-oop/diploma/detalle/) | Platzi |
+| [Introduccion a Java SE](https://platzi.com/p/victor.chavez/curso/1631-java-basico/diploma/detalle/) | Platzi |
+| [Curso Profesional de Scrum](https://platzi.com/p/victor.chavez/curso/1750-scrum/diploma/detalle/) | Platzi |
+| [Pensamiento Logico: Algoritmos y Diagramas de Flujo](https://platzi.com/p/victor.chavez/curso/3221-pensamiento-logico/diploma/detalle/) | Platzi |
+| [Pensamiento Logico: Manejo de Datos, Estructuras y Funciones](https://platzi.com/p/victor.chavez/curso/3222-pensamiento-logico-estructuras/diploma/detalle/) | Platzi |
+| [Ingles Basico A1 para Principiantes](https://platzi.com/p/victor.chavez/curso/3093-ingles-basico-principiantes/diploma/detalle/) | Platzi |
+| [Ingles Basico A1: Conversaciones Cortas](https://platzi.com/p/victor.chavez/curso/1945-ingles-principiantes/diploma/detalle/) | Platzi |
+| [Taller de Ingles para Descripciones Personales](https://platzi.com/p/victor.chavez/curso/2005-taller-descripciones-personales/diploma/detalle/) | Platzi |
 
-- Taller de entrevistas y capacitacion **a jóvenes**
+---
+
+## Volunteer - Accenture Mexico
+
+- Taller de entrevistas y capacitacion a jovenes
 - Reforestaciones
-
